@@ -12,9 +12,9 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![大作业30%](https://img.shields.io/badge/%E5%A4%A7%E4%BD%9C%E4%B8%9A30%25-wheat)
-![平时作业20%](https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E4%BD%9C%E4%B8%9A20%25-wheat)
-![期末考试50%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%9550%25-wheat)
+![大作业30%](https://img.shields.io/badge/%E5%A4%A7%E4%BD%9C%E4%B8%9A-30%25-wheat)
+![平时作业20%](https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E4%BD%9C%E4%B8%9A-20%25-wheat)
+![期末考试50%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
 
 
 ## 授课教师
@@ -39,12 +39,12 @@
   - 授课风格：
   - 听课建议：
   - ……
- 
+
 - 黄海林
   - 授课风格：
   - 听课建议：
   - ……
- 
+
 - 冯宇
   - 授课风格：
   - 听课建议：
