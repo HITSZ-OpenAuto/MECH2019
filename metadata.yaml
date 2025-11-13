@@ -1,0 +1,65 @@
+ID: "MECH2019"
+SimilarID: []
+Name: "设计与制造A"
+CourseProperty:
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（机器人与智能装备）", "工业设计（合作办学）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "MECH2019"
+  CourseName: "设计与制造A"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "大作业"
+      Percentage: 30
+    - Name: "平时作业"
+      Percentage: 20
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: "课时构成元素1"
+      Hour: ""
+    - Name: "课时构成元素2"
+      Hour: ""
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "工科试验班（机器人与智能装备）", "工业设计", "工科试验班（智慧能源与低空动力）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "MECH2019"
+  CourseName: "设计与制造A"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "大作业"
+      Percentage: 30
+    - Name: "平时作业"
+      Percentage: 20
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: "课时构成元素1"
+      Hour: ""
+    - Name: "课时构成元素2"
+      Hour: ""
