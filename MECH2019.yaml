@@ -1,0 +1,33 @@
+# 歧义提醒：提交者 "IcyDesert" 标注的提交日期为 "2025.9"，可能为笔误。
+course_name: "设计与制造 A"
+course_code: "MECH2019"
+notices: ""
+grading:
+  "0000": "大作业(30%) + 平时作业(20%) + 期末考试(50%)"
+teachers:
+  - name: "金晶"
+    reviews: []
+  - name: "孙士龙"
+    reviews: []
+  - name: "王悦昶"
+    reviews: []
+  - name: "潘尔振"
+    reviews: []
+  - name: "黄海林"
+    reviews: []
+  - name: "冯宇"
+    reviews: []
+textbooks: []
+online_resources: []
+about_course: []
+about_exam: []
+study_advice:
+  - content: |
+      2024 秋作业评分是规格严格的扣分制，即每次作业满分 10 分，每个错误之处都会 -1 / -0.5，一直扣到 0 分为止。
+      这门课是将三维的物体用二维图像表示出来，听起来就是一个抽象的过程；所以平常可以多去工图教室观察实物。
+    submitter:
+      name: "IcyDesert"
+      link: "https://github.com/IcyDesert"
+schedule: []
+related_links: []
+misc: []
