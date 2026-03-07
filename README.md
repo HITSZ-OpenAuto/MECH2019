@@ -1,4 +1,6 @@
 # MECH2019 - 设计与制造 A
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![平时作业20%](https://img.shields.io/badge/平时作业-20%25-wheat)
@@ -17,6 +19,9 @@
 - 冯宇
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 2024 秋作业评分是规格严格的扣分制，即每次作业满分 10 分，每个错误之处都会 -1 / -0.5，一直扣到 0 分为止。
 
