@@ -11,6 +11,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 金晶
 - 孙士龙
 - 王悦昶

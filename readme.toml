@@ -1,27 +1,27 @@
 course_name = "设计与制造 A"
-repo_type = "normal"
 course_code = "MECH2019"
-
+repo_type = "normal"
 description = "设计与制造 A 课程资料。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "金晶"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "孙士龙"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王悦昶"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "潘尔振"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "黄海林"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "冯宇"
-
 
 [[sections]]
 title = "学习建议"
