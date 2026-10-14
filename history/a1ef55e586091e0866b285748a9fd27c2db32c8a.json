@@ -1,0 +1,87 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814579,
+    "hash": "bb4c937a3e569f404fd02471be87e225f25b3ade"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1752395097,
+    "hash": "d4f439a9d377800accc87f5a89cc1e4287b8ae54"
+  },
+  "README.md": {
+    "size": 694,
+    "time": 1791961443,
+    "hash": "a1ef55e586091e0866b285748a9fd27c2db32c8a"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1752395097,
+    "hash": "d4f439a9d377800accc87f5a89cc1e4287b8ae54"
+  },
+  "assignments/哈工大画法几何与机械制图答案.ppt": {
+    "size": 11442688,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "assignments/工程制图基础习题集.pdf (z-lib.org).pdf": {
+    "size": 4787961,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1752395097,
+    "hash": "d4f439a9d377800accc87f5a89cc1e4287b8ae54"
+  },
+  "exams/[网盘计划]工图复习试卷及参考答案全五套.doc": {
+    "size": 4123648,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "exams/[网盘计划]工图模拟题 1.pdf": {
+    "size": 1025249,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "exams/[网盘计划]工图模拟题 2.pdf": {
+    "size": 831720,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "exams/[网盘计划]工图模拟题 3.pdf": {
+    "size": 852799,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "exams/[网盘计划]工图模拟题 4.pdf": {
+    "size": 890938,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "exams/[网盘计划]机械制图上07-16往年题（含复习笔记）.pdf": {
+    "size": 5620608,
+    "time": 1752663701,
+    "hash": "051fb32fa34b4f207286cff225fd20977d496ff7"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1752395097,
+    "hash": "d4f439a9d377800accc87f5a89cc1e4287b8ae54"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1752395097,
+    "hash": "d4f439a9d377800accc87f5a89cc1e4287b8ae54"
+  },
+  "readme.toml": {
+    "size": 839,
+    "time": 1773428059,
+    "hash": "f21f96c5950deb61317c510a6dcace56cc9301b9"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1752395097,
+    "hash": "d4f439a9d377800accc87f5a89cc1e4287b8ae54"
+  }
+}
