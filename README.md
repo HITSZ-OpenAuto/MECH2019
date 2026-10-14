@@ -1,11 +1,5 @@
 # MECH2019 - 设计与制造 A
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时作业20%](https://img.shields.io/badge/平时作业-20%25-wheat)
-![大作业30%](https://img.shields.io/badge/大作业-30%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 设计与制造 A 课程资料。
 
